@@ -20,7 +20,7 @@ This project is a simple implementation of the classic Asteroids game. The game 
 - Install the required libraries using pip:
 ```pip install pygame```
 - Run the game using the following command:
-```python asteroids_game.py```
+```python main.py```
 
 ## Contributing 
 #### How to Get Involved
@@ -31,7 +31,7 @@ Licensing Information
 This project is licensed under the [MIT](https://github.com/philipfavourboluwatife247/Asteroid-Game-Project/blob/main/LICENSE) Lincense.
 
 ## Acknowledgments 
-Special Thanks Pygame community for their support and resources
+Special Thanks Pygame community and Boot.dev for their support and resources
 
 ## Author
 - Philip Favour Boluwatife
